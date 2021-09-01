@@ -1,0 +1,18 @@
+新建文档 newtestinfork
+
+测试 fork 后 pull request 作用。
+
+fork后：
+  head 仓库中：
+    新增了 newtestinhead.txt
+    修改了 newtest2.txt
+    删除了 newtest3.txt
+  
+  fork 仓库中：
+    新增了 newtestinfork.txt
+    修改了 newtest3.txt
+    删除了 newtest2.txt
+
+在 fork仓库中开启 pull request，并merge head仓库到fork仓库。
+
+看head 仓库有何提示，需作何处理。
